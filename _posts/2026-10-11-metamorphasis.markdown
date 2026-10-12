@@ -31,12 +31,12 @@ taken from a walk this photo was particularly striking of the change of seasons
 
 ## Experimental medium egg tempera
 as I'm interested in historical processes like egg tempera, here are some of my experiments of using this medium on alumed bathed watercolour paper
-![seasons artwork from explanation](DCSF0020.JPG)
+![seasons artwork from explanation](DCSF0020.jpg)
 
 ## Watercolour painting of picture
 I move towards a more familiar medium of watercolour, thinking about how I might translate it back to egg tempera
 egg tempera seems to do light to dark instead of dark to light well.
-![watercolour painting](DCSF0050.JPG)
+![watercolour painting](DCSF0050.jpg)
 
 
 # Workshop: blocking in via grids
