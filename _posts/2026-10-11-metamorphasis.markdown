@@ -23,7 +23,7 @@ I want to explore the change that comes with merging of the subject object bound
 these are experiments in tone and tested our ability for observation, at first I bucked trend and used watercolour with one tone.
 ![Placeholder for better image of DSCF0002.jpg as is blurred, has pathos for scrumpled up paper ](/assets/images/METAMORPHOSIS/DSCF0053-1.jpg)
 ![Better image here, the usage of water is rather interesting for one tone](/assets/images/METAMORPHOSIS/DSCF0054.jpg)
-![Placeholder for better image of DSCF0004.jpg as is blurred, this was more of a proper one tone exercise](/assets/images/METAMORPHOSIS/DSCF055.jpg)
+![Placeholder for better image of DSCF0004.jpg as is blurred, this was more of a proper one tone exercise](/assets/images/METAMORPHOSIS/DSCF0055.jpg)
 
 # photo idea generation
 taken from a walk this photo was particularly striking of the change of seasons 
@@ -31,12 +31,12 @@ taken from a walk this photo was particularly striking of the change of seasons
 
 ## Experimental medium egg tempera
 as I'm interested in historical processes like egg tempera, here are some of my experiments of using this medium on alumed bathed watercolour paper
-![seasons artwork from explanation](DCSF0020.jpg)
+![seasons artwork from explanation](/assets/images/METAMORPHOSIS/DSCF0020.JPG)
 
 ## Watercolour painting of picture
 I move towards a more familiar medium of watercolour, thinking about how I might translate it back to egg tempera
 egg tempera seems to do light to dark instead of dark to light well.
-![watercolour painting](DCSF0050.jpg)
+![watercolour painting](/assets/images/METAMORPHOSIS/DSCF0050.JPG)
 
 
 # Workshop: blocking in via grids
@@ -45,5 +45,4 @@ afterwards we subdivided each square with even more detail
 here is a process image with some of the blocky nature left
 ![this has been said to help with colour mixing but I find it helps stop you from drawing the subject](/assets/images/METAMORPHOSIS/DSCF0058-1.jpg)
 ![and the final result from the workshop](/assets/images/METAMORPHOSIS/DSCF0060.jpg)
-
 
